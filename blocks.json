@@ -1,1599 +1,1815 @@
 {
-  "format_version": [1, 1, 0],
-  "air": {
-    "isotropic": true
-  },
-  "stone": {
-    "isotropic": true
-  },
-  "grass": {
-    "isotropic": true
-  },
-  "dirt": {
-    "isotropic": true
-  },
-  "cobblestone": {
-    "isotropic": true
-  },
-  "planks": {
-    "isotropic": true
-  },
-  "sapling": {
-    "isotropic": true
-  },
-  "bedrock": {
-    "isotropic": true
-  },
-  "flowing_water": {
-    "isotropic": true
-  },
-  "water": {
-    "isotropic": true
-  },
-  "flowing_lava": {
-    "isotropic": true
-  },
-  "lava": {
-    "isotropic": true
-  },
-  "sand": {
-    "isotropic": true
-  },
-  "gravel": {
-    "isotropic": true
-  },
-  "gold_ore": {
-    "isotropic": true
-  },
-  "iron_ore": {
-    "isotropic": true
-  },
-  "coal_ore": {
-    "isotropic": true
-  },
-  "log": {
-    "isotropic": true
-  },
-  "stripped_oak_log": {
-    "isotropic": true
-  },
-  "stripped_birch_log": {
-    "isotropic": true
-  },
-  "stripped_dark_oak_log": {
-    "isotropic": true
-  },
-  "stripped_acacia_log": {
-    "isotropic": true
-  },
-  "stripped_jungle_log": {
-    "isotropic": true
-  },
-  "stripped_spruce_log": {
-    "isotropic": true
-  },
-  "leaves": {
-    "isotropic": true
-  },
-  "sponge": {
-    "isotropic": true
-  },
-  "glass": {
-    "isotropic": true
-  },
-  "lapis_ore": {
-    "isotropic": true
-  },
-  "lapis_block": {
-    "isotropic": true
-  },
-  "dispenser": {
-    "isotropic": true
-  },
-  "sandstone": {
-    "isotropic": true
-  },
-  "noteblock": {
-    "isotropic": true
-  },
-  "jukebox": {
-    "isotropic": true
-  },
-  "bed": {
-    "isotropic": true
-  },
-  "golden_rail": {
-    "isotropic": true
-  },
-  "detector_rail": {
-    "isotropic": true
-  },
-  "sticky_piston": {
-    "isotropic": true
-  },
-  "web": {
-    "isotropic": true
-  },
-  "tallgrass": {
-    "isotropic": true
-  },
-  "seagrass": {
-    "isotropic": true
-  },
-  "coral": {
-    "isotropic": true
-  },
-  "coral_fan": {
-    "isotropic": true
-  },
-  "coral_fan_dead": {
-    "isotropic": true
-  },
-  "coral_fan_hang": {
-    "isotropic": true
-  },
-  "coral_fan_hang2": {
-    "isotropic": true
-  },
-  "coral_fan_hang3": {
-    "isotropic": true
-  },
-  "deadbush": {
-    "isotropic": true
-  },
-  "piston": {
-    "isotropic": true
-  },
-  "pistonArmCollision": {
-    "isotropic": true
-  },
-  "stickyPistonArmCollision": {
-    "isotropic": true
-  },
-  "wool": {
-    "isotropic": true
-  },
-  "yellow_flower": {
-    "isotropic": true
-  },
-  "red_flower": {
-    "isotropic": true
-  },
-  "brown_mushroom": {
-    "isotropic": true
-  },
-  "red_mushroom": {
-    "isotropic": true
-  },
-  "gold_block": {
-    "isotropic": true
-  },
-  "iron_block": {
-    "isotropic": true
-  },
-  "double_stone_slab": {
-    "isotropic": true
-  },
-  "stone_slab": {
-    "isotropic": true
-  },
-  "coral_block": {
-    "isotropic": true
-  },
-  "brick_block": {
-    "isotropic": true
-  },
-  "tnt": {
-    "isotropic": true
-  },
-  "bookshelf": {
-    "isotropic": true
-  },
-  "mossy_cobblestone": {
-    "isotropic": true
-  },
-  "obsidian": {
-    "isotropic": true
-  },
-  "torch": {
-    "isotropic": true
-  },
-  "mob_spawner": {
-    "isotropic": true
-  },
-  "oak_stairs": {
-    "isotropic": true
-  },
-  "chest": {
-    "isotropic": true
-  },
-  "redstone_wire": {
-    "isotropic": true
-  },
-  "diamond_ore": {
-    "isotropic": true
-  },
-  "diamond_block": {
-    "isotropic": true
-  },
-  "crafting_table": {
-    "isotropic": true
-  },
-  "wheat": {
-    "isotropic": true
-  },
-  "farmland": {
-    "isotropic": true
-  },
-  "furnace": {
-    "isotropic": true
-  },
-  "lit_furnace": {
-    "isotropic": true
-  },
-  "standing_sign": {
-    "isotropic": true
-  },
-  "wooden_door": {
-    "isotropic": true
-  },
-  "ladder": {
-    "isotropic": true
-  },
-  "rail": {
-    "isotropic": true
-  },
-  "stone_stairs": {
-    "isotropic": true
-  },
-  "wall_sign": {
-    "isotropic": true
-  },
-  "lever": {
-    "isotropic": true
-  },
-  "stone_pressure_plate": {
-    "isotropic": true
-  },
-  "iron_door": {
-    "isotropic": true
-  },
-  "wooden_pressure_plate": {
-    "isotropic": true
-  },
-  "acacia_pressure_plate": {
-    "isotropic": true
-  },
-  "birch_pressure_plate": {
-    "isotropic": true
-  },
-  "dark_oak_pressure_plate": {
-    "isotropic": true
-  },
-  "jungle_pressure_plate": {
-    "isotropic": true
-  },
-  "spruce_pressure_plate": {
-    "isotropic": true
-  },
-  "redstone_ore": {
-    "isotropic": true
-  },
-  "lit_redstone_ore": {
-    "isotropic": true
-  },
-  "unlit_redstone_torch": {
-    "isotropic": true
-  },
-  "redstone_torch": {
-    "isotropic": true
-  },
-  "stone_button": {
-    "isotropic": true
-  },
-  "snow_layer": {
-    "isotropic": true
-  },
-  "ice": {
-    "isotropic": true
-  },
-  "snow": {
-    "isotropic": true
-  },
-  "cactus": {
-    "isotropic": true
-  },
-  "clay": {
-    "isotropic": true
-  },
-  "reeds": {
-    "isotropic": true
-  },
-  "kelp": {
-    "isotropic": true
-  },
-  "dried_kelp_block": {
-    "isotropic": true
-  },
-  "fence": {
-    "isotropic": true
-  },
-  "nether_brick_fence": {
-    "isotropic": true
-  },
-  "pumpkin": {
-    "isotropic": true
-  },
-  "carved_pumpkin": {
-    "isotropic": true
-  },
-  "netherrack": {
-    "isotropic": true
-  },
-  "magma": {
-    "isotropic": true
-  },
-  "soul_sand": {
-    "isotropic": true
-  },
-  "glowstone": {
-    "isotropic": true
-  },
-  "portal": {
-    "isotropic": true
-  },
-  "lit_pumpkin": {
-    "isotropic": true
-  },
-  "cake": {
-    "isotropic": true
-  },
-  "unpowered_repeater": {
-    "isotropic": true
-  },
-  "powered_repeater": {
-    "isotropic": true
-  },
-  "invisibleBedrock": {
-    "isotropic": true
-  },
-  "barrier": {
-    "isotropic": true
-  },
-  "trapdoor": {
-    "isotropic": true
-  },
-  "acacia_trapdoor": {
-    "isotropic": true
-  },
-  "birch_trapdoor": {
-    "isotropic": true
-  },
-  "dark_oak_trapdoor": {
-    "isotropic": true
-  },
-  "jungle_trapdoor": {
-    "isotropic": true
-  },
-  "spruce_trapdoor": {
-    "isotropic": true
-  },
-  "monster_egg": {
-    "isotropic": true
-  },
-  "stonebrick": {
-    "isotropic": true
-  },
-  "brown_mushroom_block": {
-    "isotropic": true
-  },
-  "red_mushroom_block": {
-    "isotropic": true
-  },
-  "iron_bars": {
-    "isotropic": true
-  },
-  "glass_pane": {
-    "isotropic": true
-  },
-  "melon_block": {
-    "isotropic": true
-  },
-  "pumpkin_stem": {
-    "isotropic": true
-  },
-  "melon_stem": {
-    "isotropic": true
-  },
-  "vine": {
-    "isotropic": true
-  },
-  "fence_gate": {
-    "isotropic": true
-  },
-  "brick_stairs": {
-    "isotropic": true
-  },
-  "mycelium": {
-    "isotropic": true
-  },
-  "waterlily": {
-    "isotropic": true
-  },
-  "brewing_stand": {
-    "isotropic": true
-  },
-  "cauldron": {
-    "isotropic": true
-  },
-  "end_portal_frame": {
-    "isotropic": true
-  },
-  "end_portal": {
-    "isotropic": true
-  },
-  "end_gateway": {
-    "isotropic": true
-  },
-  "end_stone": {
-    "isotropic": true
-  },
-  "end_rod": {
-    "isotropic": true
-  },
-  "end_bricks": {
-    "isotropic": true
-  },
-  "redstone_lamp": {
-    "isotropic": true
-  },
-  "lit_redstone_lamp": {
-    "isotropic": true
-  },
-  "cocoa": {
-    "isotropic": true
-  },
-  "emerald_ore": {
-    "isotropic": true
-  },
-  "emerald_block": {
-    "isotropic": true
-  },
-  "spruce_stairs": {
-    "isotropic": true
-  },
-  "birch_stairs": {
-    "isotropic": true
-  },
-  "jungle_stairs": {
-    "isotropic": true
-  },
-  "beacon": {
-    "isotropic": true
-  },
-  "conduit": {
-    "isotropic": true
-  },
-  "wooden_button": {
-    "isotropic": true
-  },
-  "acacia_button": {
-    "isotropic": true
-  },
-  "birch_button": {
-    "isotropic": true
-  },
-  "dark_oak_button": {
-    "isotropic": true
-  },
-  "jungle_button": {
-    "isotropic": true
-  },
-  "spruce_button": {
-    "isotropic": true
-  },
-  "stone_brick_stairs": {
-    "isotropic": true
-  },
-  "nether_brick": {
-    "isotropic": true
-  },
-  "nether_brick_stairs": {
-    "isotropic": true
-  },
-  "red_nether_brick": {
-    "isotropic": true
-  },
-  "nether_wart": {
-    "isotropic": true
-  },
-  "nether_wart_block": {
-    "isotropic": true
-  },
-  "enchanting_table": {
-    "isotropic": true
-  },
-  "dropper": {
-    "isotropic": true
-  },
-  "activator_rail": {
-    "isotropic": true
-  },
-  "sandstone_stairs": {
-    "isotropic": true
-  },
-  "tripwire_hook": {
-    "isotropic": true
-  },
-  "tripWire": {
-    "isotropic": true
-  },
-  "cobblestone_wall": {
-    "isotropic": true
-  },
-  "flower_pot": {
-    "isotropic": true
-  },
-  "carrots": {
-    "isotropic": true
-  },
-  "potatoes": {
-    "isotropic": true
-  },
-  "skull": {
-    "isotropic": true
-  },
-  "anvil": {
-    "isotropic": true
-  },
-  "trapped_chest": {
-    "isotropic": true
-  },
-  "light_weighted_pressure_plate": {
-    "isotropic": true
-  },
-  "heavy_weighted_pressure_plate": {
-    "isotropic": true
-  },
-  "unpowered_comparator": {
-    "isotropic": true
-  },
-  "powered_comparator": {
-    "isotropic": true
-  },
-  "daylight_detector": {
-    "isotropic": true
-  },
-  "redstone_block": {
-    "isotropic": true
-  },
-  "structure_block": {
-    "isotropic": true
-  },
-  "jigsaw": {
-    "isotropic": true
-  },
-  "structure_void": {
-    "isotropic": true
-  },
-  "quartz_ore": {
-    "isotropic": true
-  },
-  "hopper": {
-    "isotropic": true
-  },
-  "bone_block": {
-    "isotropic": true
-  },
-  "quartz_block": {
-    "isotropic": true
-  },
-  "quartz_stairs": {
-    "isotropic": true
-  },
-  "purpur_block": {
-    "isotropic": true
-  },
-  "purpur_stairs": {
-    "isotropic": true
-  },
-  "chorus_plant": {
-    "isotropic": true
-  },
-  "chorus_flower": {
-    "isotropic": true
-  },
-  "double_wooden_slab": {
-    "isotropic": true
-  },
-  "wooden_slab": {
-    "isotropic": true
-  },
-  "stained_hardened_clay": {
-    "isotropic": true
-  },
-  "leaves2": {
-    "isotropic": true
-  },
-  "log2": {
-    "isotropic": true
-  },
-  "acacia_stairs": {
-    "isotropic": true
-  },
-  "dark_oak_stairs": {
-    "isotropic": true
-  },
-  "slime": {
-    "isotropic": true
-  },
-  "iron_trapdoor": {
-    "isotropic": true
-  },
-  "hay_block": {
-    "isotropic": true
-  },
-  "carpet": {
-    "isotropic": true
-  },
-  "hardened_clay": {
-    "isotropic": true
-  },
-  "coal_block": {
-    "isotropic": true
-  },
-  "packed_ice": {
-    "isotropic": true
-  },
-  "blue_ice": {
-    "isotropic": true
-  },
-  "dragon_egg": {
-    "isotropic": true
-  },
-  "double_plant": {
-    "isotropic": true
-  },
-  "daylight_detector_inverted": {
-    "isotropic": true
-  },
-  "red_sandstone": {
-    "isotropic": true
-  },
-  "red_sandstone_stairs": {
-    "isotropic": true
-  },
-  "double_stone_slab2": {
-    "isotropic": true
-  },
-  "stone_slab2": {
-    "isotropic": true
-  },
-  "double_stone_slab3": {
-    "isotropic": true
-  },
-  "stone_slab3": {
-    "isotropic": true
-  },
-  "double_stone_slab4": {
-    "isotropic": true
-  },
-  "stone_slab4": {
-    "isotropic": true
-  },
-  "spruce_fence_gate": {
-    "isotropic": true
-  },
-  "birch_fence_gate": {
-    "isotropic": true
-  },
-  "jungle_fence_gate": {
-    "isotropic": true
-  },
-  "dark_oak_fence_gate": {
-    "isotropic": true
-  },
-  "acacia_fence_gate": {
-    "isotropic": true
-  },
-  "spruce_door": {
-    "isotropic": true
-  },
-  "birch_door": {
-    "isotropic": true
-  },
-  "jungle_door": {
-    "isotropic": true
-  },
-  "acacia_door": {
-    "isotropic": true
-  },
-  "dark_oak_door": {
-    "isotropic": true
-  },
-  "grass_path": {
-    "isotropic": true
-  },
-  "frame": {
-    "isotropic": true
-  },
-  "podzol": {
-    "isotropic": true
-  },
-  "beetroot": {
-    "isotropic": true
-  },
-  "stonecutter": {
-    "isotropic": true
-  },
-  "stonecutter_block": {
-    "isotropic": true
-  },
-  "glowingobsidian": {
-    "isotropic": true
-  },
-  "netherreactor": {
-    "isotropic": true
-  },
-  "info_update": {
-    "isotropic": true
-  },
-  "info_update2": {
-    "isotropic": true
-  },
-  "movingBlock": {
-    "isotropic": true
-  },
-  "observer": {
-    "isotropic": true
-  },
-  "reserved6": {
-    "isotropic": true
-  },
-  "fire": {
-    "isotropic": true
-  },
-  "prismarine": {
-    "isotropic": true
-  },
-  "seaLantern": {
-    "isotropic": true
-  },
-  "sea_pickle": {
-    "isotropic": true
-  },
-  "turtle_egg": {
-    "isotropic": true
-  },
-  "ender_chest": {
-    "isotropic": true
-  },
-  "stained_glass": {
-    "isotropic": true
-  },
-  "stained_glass_pane": {
-    "isotropic": true
-  },
-  "shulker_box": {
-    "isotropic": true
-  },
-  "undyed_shulker_box": {
-    "isotropic": true
-  },
-  "command_block": {
-    "isotropic": true
-  },
-  "repeating_command_block": {
-    "isotropic": true
-  },
-  "chain_command_block": {
-    "isotropic": true
-  },
-  "concrete": {
-    "isotropic": true
-  },
-  "concretePowder": {
-    "isotropic": true
-  },
-  "black_glazed_terracotta": {
-    "isotropic": true
-  },
-  "blue_glazed_terracotta": {
-    "isotropic": true
-  },
-  "brown_glazed_terracotta": {
-    "isotropic": true
-  },
-  "cyan_glazed_terracotta": {
-    "isotropic": true
-  },
-  "gray_glazed_terracotta": {
-    "isotropic": true
-  },
-  "green_glazed_terracotta": {
-    "isotropic": true
-  },
-  "light_blue_glazed_terracotta": {
-    "isotropic": true
-  },
-  "lime_glazed_terracotta": {
-    "isotropic": true
-  },
-  "magenta_glazed_terracotta": {
-    "isotropic": true
-  },
-  "orange_glazed_terracotta": {
-    "isotropic": true
-  },
-  "pink_glazed_terracotta": {
-    "isotropic": true
-  },
-  "purple_glazed_terracotta": {
-    "isotropic": true
-  },
-  "red_glazed_terracotta": {
-    "isotropic": true
-  },
-  "silver_glazed_terracotta": {
-    "isotropic": true
-  },
-  "white_glazed_terracotta": {
-    "isotropic": true
-  },
-  "yellow_glazed_terracotta": {
-    "isotropic": true
-  },
-  "frosted_ice": {
-    "isotropic": true
-  },
-  "standing_banner": {
-    "isotropic": true
-  },
-  "wall_banner": {
-    "isotropic": true
-  },
-  "prismarine_stairs": {
-    "isotropic": true
-  },
-  "dark_prismarine_stairs": {
-    "isotropic": true
-  },
-  "prismarine_bricks_stairs": {
-    "isotropic": true
-  },
-  "bubble_column": {
-    "isotropic": true
-  },
-  "bamboo": {
-    "isotropic": true
-  },
-  "bamboo_sapling": {
-    "isotropic": true
-  },
-  "scaffolding": {
-    "isotropic": true
-  },
-  "granite_stairs": {
-    "isotropic": true
-  },
-  "andesite_stairs": {
-    "isotropic": true
-  },
-  "diorite_stairs": {
-    "isotropic": true
-  },
-  "polished_granite_stairs": {
-    "isotropic": true
-  },
-  "polished_andesite_stairs": {
-    "isotropic": true
-  },
-  "polished_diorite_stairs": {
-    "isotropic": true
-  },
-  "mossy_stone_brick_stairs": {
-    "isotropic": true
-  },
-  "smooth_red_sandstone_stairs": {
-    "isotropic": true
-  },
-  "smooth_sandstone_stairs": {
-    "isotropic": true
-  },
-  "end_brick_stairs": {
-    "isotropic": true
-  },
-  "mossy_cobblestone_stairs": {
-    "isotropic": true
-  },
-  "normal_stone_stairs": {
-    "isotropic": true
-  },
-  "smooth_stone": {
-    "isotropic": true
-  },
-  "red_nether_brick_stairs": {
-    "isotropic": true
-  },
-  "smooth_quartz_stairs": {
-    "isotropic": true
-  },
-  "spruce_wall_sign": {
-    "isotropic": true
-  },
-  "spruce_standing_sign": {
-    "isotropic": true
-  },
-  "birch_wall_sign": {
-    "isotropic": true
-  },
-  "birch_standing_sign": {
-    "isotropic": true
-  },
-  "jungle_wall_sign": {
-    "isotropic": true
-  },
-  "jungle_standing_sign": {
-    "isotropic": true
-  },
-  "acacia_wall_sign": {
-    "isotropic": true
-  },
-  "acacia_standing_sign": {
-    "isotropic": true
-  },
-  "darkoak_wall_sign": {
-    "isotropic": true
-  },
-  "darkoak_standing_sign": {
-    "isotropic": true
-  },
-  "barrel": {
-    "isotropic": true
-  },
-  "smithing_table": {
-    "isotropic": true
-  },
-  "smoker": {
-    "isotropic": true
-  },
-  "lit_smoker": {
-    "isotropic": true
-  },
-  "blast_furnace": {
-    "isotropic": true
-  },
-  "lit_blast_furnace": {
-    "isotropic": true
-  },
-  "lantern": {
-    "isotropic": true
-  },
-  "lava_cauldron": {
-    "isotropic": true
-  },
-  "grindstone": {
-    "isotropic": true
-  },
-  "bell": {
-    "isotropic": true
-  },
-  "cartography_table": {
-    "isotropic": true
-  },
-  "fletching_table": {
-    "isotropic": true
-  },
-  "campfire": {
-    "isotropic": true
-  },
-  "camera": {
-    "isotropic": true
-  },
-  "loom": {
-    "isotropic": true
-  },
-  "lectern": {
-    "isotropic": true
-  },
-  "wood": {
-    "isotropic": true
-  },
-  "sweet_berry_bush": {
-    "isotropic": true
-  },
-  "composter": {
-    "isotropic": true
-  },
-  "wither_rose": {
-    "isotropic": true
-  },
-  "light_block": {
-    "isotropic": true
-  },
-  "allow": {
-    "isotropic": true
-  },
-  "deny": {
-    "isotropic": true
-  },
-  "border_block": {
-    "isotropic": true
-  },
-  "lodestone": {
-    "isotropic": true
-  },
-  "crimson_roots": {
-    "isotropic": true
-  },
-  "warped_roots": {
-    "isotropic": true
-  },
-  "crimson_fungus": {
-    "isotropic": true
-  },
-  "warped_fungus": {
-    "isotropic": true
-  },
-  "warped_wart_block": {
-    "isotropic": true
-  },
-  "crimson_stem": {
-    "isotropic": true
-  },
-  "warped_stem": {
-    "isotropic": true
-  },
-  "stripped_crimson_stem": {
-    "isotropic": true
-  },
-  "stripped_warped_stem": {
-    "isotropic": true
-  },
-  "crimson_hyphae": {
-    "isotropic": true
-  },
-  "warped_hyphae": {
-    "isotropic": true
-  },
-  "stripped_crimson_hyphae": {
-    "isotropic": true
-  },
-  "stripped_warped_hyphae": {
-    "isotropic": true
-  },
-  "shroomlight": {
-    "isotropic": true
-  },
-  "crimson_nylium": {
-    "isotropic": true
-  },
-  "warped_nylium": {
-    "isotropic": true
-  },
-  "weeping_vines": {
-    "isotropic": true
-  },
-  "twisting_vines": {
-    "isotropic": true
-  },
-  "basalt": {
-    "isotropic": true
-  },
-  "polished_basalt": {
-    "isotropic": true
-  },
-  "soul_soil": {
-    "isotropic": true
-  },
-  "soul_fire": {
-    "isotropic": true
-  },
-  "nether_sprouts": {
-    "isotropic": true
-  },
-  "target": {
-    "isotropic": true
-  },
-  "soul_torch": {
-    "isotropic": true
-  },
-  "soul_lantern": {
-    "isotropic": true
-  },
-  "netherite_block": {
-    "isotropic": true
-  },
-  "nether_gold_ore": {
-    "isotropic": true
-  },
-  "ancient_debris": {
-    "isotropic": true
-  },
-  "warped_standing_sign": {
-    "isotropic": true
-  },
-  "crimson_standing_sign": {
-    "isotropic": true
-  },
-  "warped_wall_sign": {
-    "isotropic": true
-  },
-  "crimson_wall_sign": {
-    "isotropic": true
-  },
-  "crimson_door": {
-    "isotropic": true
-  },
-  "warped_door": {
-    "isotropic": true
-  },
-  "crimson_planks": {
-    "isotropic": true
-  },
-  "warped_planks": {
-    "isotropic": true
-  },
-  "crimson_trapdoor": {
-    "isotropic": true
-  },
-  "warped_trapdoor": {
-    "isotropic": true
-  },
-  "crimson_fence": {
-    "isotropic": true
-  },
-  "warped_fence": {
-    "isotropic": true
-  },
-  "crimson_fence_gate": {
-    "isotropic": true
-  },
-  "warped_fence_gate": {
-    "isotropic": true
-  },
-  "crimson_double_slab": {
-    "isotropic": true
-  },
-  "crimson_slab": {
-    "isotropic": true
-  },
-  "warped_double_slab": {
-    "isotropic": true
-  },
-  "warped_slab": {
-    "isotropic": true
-  },
-  "crimson_stairs": {
-    "isotropic": true
-  },
-  "warped_stairs": {
-    "isotropic": true
-  },
-  "crimson_button": {
-    "isotropic": true
-  },
-  "warped_button": {
-    "isotropic": true
-  },
-  "crimson_pressure_plate": {
-    "isotropic": true
-  },
-  "warped_pressure_plate": {
-    "isotropic": true
-  },
-  "blackstone": {
-    "isotropic": true
-  },
-  "polished_blackstone_bricks": {
-    "isotropic": true
-  },
-  "polished_blackstone_brick_stairs": {
-    "isotropic": true
-  },
-  "blackstone_stairs": {
-    "isotropic": true
-  },
-  "blackstone_wall": {
-    "isotropic": true
-  },
-  "polished_blackstone_brick_wall": {
-    "isotropic": true
-  },
-  "chiseled_polished_blackstone": {
-    "isotropic": true
-  },
-  "cracked_polished_blackstone_bricks": {
-    "isotropic": true
-  },
-  "gilded_blackstone": {
-    "isotropic": true
-  },
-  "honey_block": {
-    "isotropic": true
-  },
-  "honeycomb_block": {
-    "isotropic": true
-  },
-  "respawn_anchor": {
-    "isotropic": true
-  },
-  "crying_obsidian": {
-    "isotropic": true
-  },
-  "blackstone_slab": {
-    "isotropic": true
-  },
-  "blackstone_double_slab": {
-    "isotropic": true
-  },
-  "polished_blackstone_brick_slab": {
-    "isotropic": true
-  },
-  "polished_blackstone_brick_double_slab": {
-    "isotropic": true
-  },
-  "chain": {
-    "isotropic": true
-  },
-  "polished_blackstone": {
-    "isotropic": true
-  },
-  "polished_blackstone_stairs": {
-    "isotropic": true
-  },
-  "polished_blackstone_slab": {
-    "isotropic": true
-  },
-  "polished_blackstone_double_slab": {
-    "isotropic": true
-  },
-  "polished_blackstone_pressure_plate": {
-    "isotropic": true
-  },
-  "polished_blackstone_button": {
-    "isotropic": true
-  },
-  "polished_blackstone_wall": {
-    "isotropic": true
-  },
-  "chiseled_nether_bricks": {
-    "isotropic": true
-  },
-  "cracked_nether_bricks": {
-    "isotropic": true
-  },
-  "quartz_bricks": {
-    "isotropic": true
-  },
-  "soul_campfire": {
-    "isotropic": true
-  },
-  "powder_snow": {
-    "isotropic": true
-  },
-  "big_dripleaf": {
-    "isotropic": true
-  },
-  "small_dripleaf_block": {
-    "isotropic": true
-  },
-  "dirt_with_roots": {
-    "isotropic": true
-  },
-  "hanging_roots": {
-    "isotropic": true
-  },
-  "spore_blossom": {
-    "isotropic": true
-  },
-  "azalea_leaves": {
-    "isotropic": true
-  },
-  "azalea_leaves_flowered": {
-    "isotropic": true
-  },
-  "azalea": {
-    "isotropic": true
-  },
-  "flowering_azalea": {
-    "isotropic": true
-  },
-  "cave_vines": {
-    "isotropic": true
-  },
-  "cave_vines_body_with_berries": {
-    "isotropic": true
-  },
-  "cave_vines_head_with_berries": {
-    "isotropic": true
-  },
-  "moss_block": {
-    "isotropic": true
-  },
-  "moss_carpet": {
-    "isotropic": true
-  },
-  "glow_frame": {
-    "isotropic": true
-  },
-  "glow_lichen": {
-    "isotropic": true
-  },
-  "dripstone_block": {
-    "isotropic": true
-  },
-  "pointed_dripstone": {
-    "isotropic": true
-  },
-  "amethyst_block": {
-    "isotropic": true
-  },
-  "budding_amethyst": {
-    "isotropic": true
-  },
-  "amethyst_cluster": {
-    "isotropic": true
-  },
-  "large_amethyst_bud": {
-    "isotropic": true
-  },
-  "medium_amethyst_bud": {
-    "isotropic": true
-  },
-  "small_amethyst_bud": {
-    "isotropic": true
-  },
-  "tuff": {
-    "isotropic": true
-  },
-  "calcite": {
-    "isotropic": true
-  },
-  "tinted_glass": {
-    "isotropic": true
-  },
-  "smooth_basalt": {
-    "isotropic": true
-  },
-  "deepslate": {
-    "isotropic": true
-  },
-  "infested_deepslate": {
-    "isotropic": true
-  },
-  "cobbled_deepslate": {
-    "isotropic": true
-  },
-  "cobbled_deepslate_slab": {
-    "isotropic": true
-  },
-  "cobbled_deepslate_double_slab": {
-    "isotropic": true
-  },
-  "cobbled_deepslate_stairs": {
-    "isotropic": true
-  },
-  "cobbled_deepslate_wall": {
-    "isotropic": true
-  },
-  "polished_deepslate": {
-    "isotropic": true
-  },
-  "polished_deepslate_slab": {
-    "isotropic": true
-  },
-  "polished_deepslate_double_slab": {
-    "isotropic": true
-  },
-  "polished_deepslate_stairs": {
-    "isotropic": true
-  },
-  "polished_deepslate_wall": {
-    "isotropic": true
-  },
-  "deepslate_tiles": {
-    "isotropic": true
-  },
-  "deepslate_tile_slab": {
-    "isotropic": true
-  },
-  "deepslate_tile_double_slab": {
-    "isotropic": true
-  },
-  "deepslate_tile_stairs": {
-    "isotropic": true
-  },
-  "deepslate_tile_wall": {
-    "isotropic": true
-  },
-  "deepslate_bricks": {
-    "isotropic": true
-  },
-  "deepslate_brick_slab": {
-    "isotropic": true
-  },
-  "deepslate_brick_double_slab": {
-    "isotropic": true
-  },
-  "deepslate_brick_stairs": {
-    "isotropic": true
-  },
-  "deepslate_brick_wall": {
-    "isotropic": true
-  },
-  "chiseled_deepslate": {
-    "isotropic": true
-  },
-  "deepslate_lapis_ore": {
-    "isotropic": true
-  },
-  "deepslate_iron_ore": {
-    "isotropic": true
-  },
-  "deepslate_gold_ore": {
-    "isotropic": true
-  },
-  "deepslate_redstone_ore": {
-    "isotropic": true
-  },
-  "lit_deepslate_redstone_ore": {
-    "isotropic": true
-  },
-  "deepslate_diamond_ore": {
-    "isotropic": true
-  },
-  "deepslate_coal_ore": {
-    "isotropic": true
-  },
-  "deepslate_emerald_ore": {
-    "isotropic": true
-  },
-  "deepslate_copper_ore": {
-    "isotropic": true
-  },
-  "cracked_deepslate_tiles": {
-    "isotropic": true
-  },
-  "cracked_deepslate_bricks": {
-    "isotropic": true
-  },
-  "copper_ore": {
-    "isotropic": true
-  },
-  "copper_block": {
-    "isotropic": true
-  },
-  "exposed_copper": {
-    "isotropic": true
-  },
-  "weathered_copper": {
-    "isotropic": true
-  },
-  "oxidized_copper": {
-    "isotropic": true
-  },
-  "waxed_copper": {
-    "isotropic": true
-  },
-  "waxed_exposed_copper": {
-    "isotropic": true
-  },
-  "waxed_weathered_copper": {
-    "isotropic": true
-  },
-  "waxed_oxidized_copper": {
-    "isotropic": true
-  },
-  "cut_copper": {
-    "isotropic": true
-  },
-  "exposed_cut_copper": {
-    "isotropic": true
-  },
-  "weathered_cut_copper": {
-    "isotropic": true
-  },
-  "oxidized_cut_copper": {
-    "isotropic": true
-  },
-  "waxed_cut_copper": {
-    "isotropic": true
-  },
-  "waxed_exposed_cut_copper": {
-    "isotropic": true
-  },
-  "waxed_weathered_cut_copper": {
-    "isotropic": true
-  },
-  "waxed_oxidized_cut_copper": {
-    "isotropic": true
-  },
-  "cut_copper_stairs": {
-    "isotropic": true
-  },
-  "exposed_cut_copper_stairs": {
-    "isotropic": true
-  },
-  "weathered_cut_copper_stairs": {
-    "isotropic": true
-  },
-  "oxidized_cut_copper_stairs": {
-    "isotropic": true
-  },
-  "waxed_cut_copper_stairs": {
-    "isotropic": true
-  },
-  "waxed_exposed_cut_copper_stairs": {
-    "isotropic": true
-  },
-  "waxed_weathered_cut_copper_stairs": {
-    "isotropic": true
-  },
-  "waxed_oxidized_cut_copper_stairs": {
-    "isotropic": true
-  },
-  "cut_copper_slab": {
-    "isotropic": true
-  },
-  "exposed_cut_copper_slab": {
-    "isotropic": true
-  },
-  "weathered_cut_copper_slab": {
-    "isotropic": true
-  },
-  "oxidized_cut_copper_slab": {
-    "isotropic": true
-  },
-  "waxed_cut_copper_slab": {
-    "isotropic": true
-  },
-  "waxed_exposed_cut_copper_slab": {
-    "isotropic": true
-  },
-  "waxed_weathered_cut_copper_slab": {
-    "isotropic": true
-  },
-  "waxed_oxidized_cut_copper_slab": {
-    "isotropic": true
-  },
-  "double_cut_copper_slab": {
-    "isotropic": true
-  },
-  "exposed_double_cut_copper_slab": {
-    "isotropic": true
-  },
-  "weathered_double_cut_copper_slab": {
-    "isotropic": true
-  },
-  "oxidized_double_cut_copper_slab": {
-    "isotropic": true
-  },
-  "waxed_double_cut_copper_slab": {
-    "isotropic": true
-  },
-  "waxed_exposed_double_cut_copper_slab": {
-    "isotropic": true
-  },
-  "waxed_weathered_double_cut_copper_slab": {
-    "isotropic": true
-  },
-  "waxed_oxidized_double_cut_copper_slab": {
-    "isotropic": true
-  },
-  "lightning_rod": {
-    "isotropic": true
-  },
-  "raw_copper_block": {
-    "isotropic": true
-  },
-  "raw_iron_block": {
-    "isotropic": true
-  },
-  "raw_gold_block": {
-    "isotropic": true
-  },
-  "sculk_sensor": {
-    "isotropic": true
-  }
+   "format_version": [1, 1, 0],
+   "acacia_button": {
+      "isotropic": true
+   },
+   "acacia_door": {
+      "isotropic": true
+   },
+   "acacia_fence_gate": {
+      "isotropic": true
+   },
+   "acacia_pressure_plate": {
+      "isotropic": true
+   },
+   "acacia_stairs": {
+      "isotropic": true
+   },
+   "acacia_standing_sign": {
+      "isotropic": true
+   },
+   "acacia_trapdoor": {
+      "isotropic": true
+   },
+   "acacia_wall_sign": {
+      "isotropic": true
+   },
+   "activator_rail": {
+      "isotropic": true
+   },
+   "air": {
+      "isotropic": true
+   },
+   "allow": {
+      "isotropic": true
+   },
+   "amethyst_block": {
+      "isotropic": true
+   },
+   "amethyst_cluster": {
+      "isotropic": true
+   },
+   "ancient_debris": {
+      "isotropic": true
+   },
+   "andesite_stairs": {
+      "isotropic": true
+   },
+   "anvil": {
+      "isotropic": true
+   },
+   "azalea": {
+      "isotropic": true
+   },
+   "azalea_leaves": {
+      "isotropic": true
+   },
+   "azalea_leaves_flowered": {
+      "isotropic": true
+   },
+   "bamboo": {
+      "isotropic": true
+   },
+   "bamboo_sapling": {
+      "isotropic": true
+   },
+   "barrel": {
+      "isotropic": true
+   },
+   "barrier": {
+      "isotropic": true
+   },
+   "basalt": {
+      "isotropic": true
+   },
+   "beacon": {
+      "isotropic": true
+   },
+   "bed": {
+      "isotropic": true
+   },
+   "bedrock": {
+      "isotropic": true
+   },
+   "bee_nest": {
+      "isotropic": true
+   },
+   "beehive": {
+      "isotropic": true
+   },
+   "beetroot": {
+      "isotropic": true
+   },
+   "bell": {
+      "isotropic": true
+   },
+   "big_dripleaf": {
+      "isotropic": true
+   },
+   "birch_button": {
+      "isotropic": true
+   },
+   "birch_door": {
+      "isotropic": true
+   },
+   "birch_fence_gate": {
+      "isotropic": true
+   },
+   "birch_pressure_plate": {
+      "isotropic": true
+   },
+   "birch_stairs": {
+      "isotropic": true
+   },
+   "birch_standing_sign": {
+      "isotropic": true
+   },
+   "birch_trapdoor": {
+      "isotropic": true
+   },
+   "birch_wall_sign": {
+      "isotropic": true
+   },
+   "black_candle": {
+      "isotropic": true
+   },
+   "black_candle_cake": {
+      "isotropic": true
+   },
+   "black_glazed_terracotta": {
+      "isotropic": true
+   },
+   "blackstone": {
+      "isotropic": true
+   },
+   "blackstone_double_slab": {
+      "isotropic": true
+   },
+   "blackstone_slab": {
+      "isotropic": true
+   },
+   "blackstone_stairs": {
+      "isotropic": true
+   },
+   "blackstone_wall": {
+      "isotropic": true
+   },
+   "blast_furnace": {
+      "isotropic": true
+   },
+   "blue_candle": {
+      "isotropic": true
+   },
+   "blue_candle_cake": {
+      "isotropic": true
+   },
+   "blue_glazed_terracotta": {
+      "isotropic": true
+   },
+   "blue_ice": {
+      "isotropic": true
+   },
+   "bone_block": {
+      "isotropic": true
+   },
+   "bookshelf": {
+      "isotropic": true
+   },
+   "border_block": {
+      "isotropic": true
+   },
+   "brewing_stand": {
+      "isotropic": true
+   },
+   "brick_block": {
+      "isotropic": true
+   },
+   "brick_stairs": {
+      "isotropic": true
+   },
+   "brown_candle": {
+      "isotropic": true
+   },
+   "brown_candle_cake": {
+      "isotropic": true
+   },
+   "brown_glazed_terracotta": {
+      "isotropic": true
+   },
+   "brown_mushroom": {
+      "isotropic": true
+   },
+   "brown_mushroom_block": {
+      "isotropic": true
+   },
+   "bubble_column": {
+      "isotropic": true
+   },
+   "budding_amethyst": {
+      "isotropic": true
+   },
+   "cactus": {
+      "isotropic": true
+   },
+   "cake": {
+      "isotropic": true
+   },
+   "calcite": {
+      "isotropic": true
+   },
+   "camera": {
+      "isotropic": true
+   },
+   "campfire": {
+      "isotropic": true
+   },
+   "candle": {
+      "isotropic": true
+   },
+   "candle_cake": {
+      "isotropic": true
+   },
+   "carpet": {
+      "isotropic": true
+   },
+   "carrots": {
+      "isotropic": true
+   },
+   "cartography_table": {
+      "isotropic": true
+   },
+   "carved_pumpkin": {
+      "isotropic": true
+   },
+   "cauldron": {
+      "isotropic": true
+   },
+   "cave_vines": {
+      "isotropic": true
+   },
+   "cave_vines_body_with_berries": {
+      "isotropic": true
+   },
+   "cave_vines_head_with_berries": {
+      "isotropic": true
+   },
+   "chain": {
+      "isotropic": true
+   },
+   "chain_command_block": {
+      "isotropic": true
+   },
+   "chest": {
+      "isotropic": true
+   },
+   "chiseled_deepslate": {
+      "isotropic": true
+   },
+   "chiseled_nether_bricks": {
+      "isotropic": true
+   },
+   "chiseled_polished_blackstone": {
+      "isotropic": true
+   },
+   "chorus_flower": {
+      "isotropic": true
+   },
+   "chorus_plant": {
+      "isotropic": true
+   },
+   "clay": {
+      "isotropic": true
+   },
+   "coal_block": {
+      "isotropic": true
+   },
+   "coal_ore": {
+      "isotropic": true
+   },
+   "cobbled_deepslate": {
+      "isotropic": true
+   },
+   "cobbled_deepslate_double_slab": {
+      "isotropic": true
+   },
+   "cobbled_deepslate_slab": {
+      "isotropic": true
+   },
+   "cobbled_deepslate_stairs": {
+      "isotropic": true
+   },
+   "cobbled_deepslate_wall": {
+      "isotropic": true
+   },
+   "cobblestone": {
+      "isotropic": true
+   },
+   "cobblestone_wall": {
+      "isotropic": true
+   },
+   "cocoa": {
+      "isotropic": true
+   },
+   "command_block": {
+      "isotropic": true
+   },
+   "composter": {
+      "isotropic": true
+   },
+   "concrete": {
+      "isotropic": true
+   },
+   "concretePowder": {
+      "isotropic": true
+   },
+   "conduit": {
+      "isotropic": true
+   },
+   "copper_block": {
+      "isotropic": true
+   },
+   "copper_ore": {
+      "isotropic": true
+   },
+   "coral": {
+      "isotropic": true
+   },
+   "coral_block": {
+      "isotropic": true
+   },
+   "coral_fan": {
+      "isotropic": true
+   },
+   "coral_fan_dead": {
+      "isotropic": true
+   },
+   "coral_fan_hang": {
+      "isotropic": true
+   },
+   "coral_fan_hang2": {
+      "isotropic": true
+   },
+   "coral_fan_hang3": {
+      "isotropic": true
+   },
+   "cracked_deepslate_bricks": {
+      "isotropic": true
+   },
+   "cracked_deepslate_tiles": {
+      "isotropic": true
+   },
+   "cracked_nether_bricks": {
+      "isotropic": true
+   },
+   "cracked_polished_blackstone_bricks": {
+      "isotropic": true
+   },
+   "crafting_table": {
+      "isotropic": true
+   },
+   "crimson_button": {
+      "isotropic": true
+   },
+   "crimson_door": {
+      "isotropic": true
+   },
+   "crimson_double_slab": {
+      "isotropic": true
+   },
+   "crimson_fence": {
+      "isotropic": true
+   },
+   "crimson_fence_gate": {
+      "isotropic": true
+   },
+   "crimson_fungus": {
+      "isotropic": true
+   },
+   "crimson_hyphae": {
+      "isotropic": true
+   },
+   "crimson_nylium": {
+      "isotropic": true
+   },
+   "crimson_planks": {
+      "isotropic": true
+   },
+   "crimson_pressure_plate": {
+      "isotropic": true
+   },
+   "crimson_roots": {
+      "isotropic": true
+   },
+   "crimson_slab": {
+      "isotropic": true
+   },
+   "crimson_stairs": {
+      "isotropic": true
+   },
+   "crimson_standing_sign": {
+      "isotropic": true
+   },
+   "crimson_stem": {
+      "isotropic": true
+   },
+   "crimson_trapdoor": {
+      "isotropic": true
+   },
+   "crimson_wall_sign": {
+      "isotropic": true
+   },
+   "crying_obsidian": {
+      "isotropic": true
+   },
+   "cut_copper": {
+      "isotropic": true
+   },
+   "cut_copper_slab": {
+      "isotropic": true
+   },
+   "cut_copper_stairs": {
+      "isotropic": true
+   },
+   "cyan_candle": {
+      "isotropic": true
+   },
+   "cyan_candle_cake": {
+      "isotropic": true
+   },
+   "cyan_glazed_terracotta": {
+      "isotropic": true
+   },
+   "dark_oak_button": {
+      "isotropic": true
+   },
+   "dark_oak_door": {
+      "isotropic": true
+   },
+   "dark_oak_fence_gate": {
+      "isotropic": true
+   },
+   "dark_oak_pressure_plate": {
+      "isotropic": true
+   },
+   "dark_oak_stairs": {
+      "isotropic": true
+   },
+   "dark_oak_trapdoor": {
+      "isotropic": true
+   },
+   "dark_prismarine_stairs": {
+      "isotropic": true
+   },
+   "darkoak_standing_sign": {
+      "isotropic": true
+   },
+   "darkoak_wall_sign": {
+      "isotropic": true
+   },
+   "daylight_detector": {
+      "isotropic": true
+   },
+   "daylight_detector_inverted": {
+      "isotropic": true
+   },
+   "deadbush": {
+      "isotropic": true
+   },
+   "deepslate": {
+      "isotropic": true
+   },
+   "deepslate_brick_double_slab": {
+      "isotropic": true
+   },
+   "deepslate_brick_slab": {
+      "isotropic": true
+   },
+   "deepslate_brick_stairs": {
+      "isotropic": true
+   },
+   "deepslate_brick_wall": {
+      "isotropic": true
+   },
+   "deepslate_bricks": {
+      "isotropic": true
+   },
+   "deepslate_coal_ore": {
+      "isotropic": true
+   },
+   "deepslate_copper_ore": {
+      "isotropic": true
+   },
+   "deepslate_diamond_ore": {
+      "isotropic": true
+   },
+   "deepslate_emerald_ore": {
+      "isotropic": true
+   },
+   "deepslate_gold_ore": {
+      "isotropic": true
+   },
+   "deepslate_iron_ore": {
+      "isotropic": true
+   },
+   "deepslate_lapis_ore": {
+      "isotropic": true
+   },
+   "deepslate_redstone_ore": {
+      "isotropic": true
+   },
+   "deepslate_tile_double_slab": {
+      "isotropic": true
+   },
+   "deepslate_tile_slab": {
+      "isotropic": true
+   },
+   "deepslate_tile_stairs": {
+      "isotropic": true
+   },
+   "deepslate_tile_wall": {
+      "isotropic": true
+   },
+   "deepslate_tiles": {
+      "isotropic": true
+   },
+   "deny": {
+      "isotropic": true
+   },
+   "detector_rail": {
+      "isotropic": true
+   },
+   "diamond_block": {
+      "isotropic": true
+   },
+   "diamond_ore": {
+      "isotropic": true
+   },
+   "diorite_stairs": {
+      "isotropic": true
+   },
+   "dirt": {
+      "isotropic": true
+   },
+   "dirt_with_roots": {
+      "isotropic": true
+   },
+   "dispenser": {
+      "isotropic": true
+   },
+   "double_cut_copper_slab": {
+      "isotropic": true
+   },
+   "double_plant": {
+      "isotropic": true
+   },
+   "double_stone_slab": {
+      "isotropic": true
+   },
+   "double_stone_slab2": {
+      "isotropic": true
+   },
+   "double_stone_slab3": {
+      "isotropic": true
+   },
+   "double_stone_slab4": {
+      "isotropic": true
+   },
+   "double_wooden_slab": {
+      "isotropic": true
+   },
+   "dragon_egg": {
+      "isotropic": true
+   },
+   "dried_kelp_block": {
+      "isotropic": true
+   },
+   "dripstone_block": {
+      "isotropic": true
+   },
+   "dropper": {
+      "isotropic": true
+   },
+   "emerald_block": {
+      "isotropic": true
+   },
+   "emerald_ore": {
+      "isotropic": true
+   },
+   "enchanting_table": {
+      "isotropic": true
+   },
+   "end_brick_stairs": {
+      "isotropic": true
+   },
+   "end_bricks": {
+      "isotropic": true
+   },
+   "end_gateway": {
+      "isotropic": true
+   },
+   "end_portal": {
+      "isotropic": true
+   },
+   "end_portal_frame": {
+      "isotropic": true
+   },
+   "end_rod": {
+      "isotropic": true
+   },
+   "end_stone": {
+      "isotropic": true
+   },
+   "ender_chest": {
+      "isotropic": true
+   },
+   "exposed_copper": {
+      "isotropic": true
+   },
+   "exposed_cut_copper": {
+      "isotropic": true
+   },
+   "exposed_cut_copper_slab": {
+      "isotropic": true
+   },
+   "exposed_cut_copper_stairs": {
+      "isotropic": true
+   },
+   "exposed_double_cut_copper_slab": {
+      "isotropic": true
+   },
+   "farmland": {
+      "isotropic": true
+   },
+   "fence": {
+      "isotropic": true
+   },
+   "fence_gate": {
+      "isotropic": true
+   },
+   "fire": {
+      "isotropic": true
+   },
+   "fletching_table": {
+      "isotropic": true
+   },
+   "flower_pot": {
+      "isotropic": true
+   },
+   "flowering_azalea": {
+      "isotropic": true
+   },
+   "flowing_lava": {
+      "isotropic": true
+   },
+   "flowing_water": {
+      "isotropic": true
+   },
+   "frame": {
+      "isotropic": true
+   },
+   "frog_spawn": {
+      "isotropic": true
+   },
+   "frosted_ice": {
+      "isotropic": true
+   },
+   "furnace": {
+      "isotropic": true
+   },
+   "gilded_blackstone": {
+      "isotropic": true
+   },
+   "glass": {
+      "isotropic": true
+   },
+   "glass_pane": {
+      "isotropic": true
+   },
+   "glow_frame": {
+      "isotropic": true
+   },
+   "glow_lichen": {
+      "isotropic": true
+   },
+   "glowingobsidian": {
+      "isotropic": true
+   },
+   "glowstone": {
+      "isotropic": true
+   },
+   "gold_block": {
+      "isotropic": true
+   },
+   "gold_ore": {
+      "isotropic": true
+   },
+   "golden_rail": {
+      "isotropic": true
+   },
+   "granite_stairs": {
+      "isotropic": true
+   },
+   "grass": {
+      "isotropic": true
+   },
+   "grass_path": {
+      "isotropic": true
+   },
+   "gravel": {
+      "isotropic": true
+   },
+   "gray_candle": {
+      "isotropic": true
+   },
+   "gray_candle_cake": {
+      "isotropic": true
+   },
+   "gray_glazed_terracotta": {
+      "isotropic": true
+   },
+   "green_candle": {
+      "isotropic": true
+   },
+   "green_candle_cake": {
+      "isotropic": true
+   },
+   "green_glazed_terracotta": {
+      "isotropic": true
+   },
+   "grindstone": {
+      "isotropic": true
+   },
+   "hanging_roots": {
+      "isotropic": true
+   },
+   "hardened_clay": {
+      "isotropic": true
+   },
+   "hay_block": {
+      "isotropic": true
+   },
+   "heavy_weighted_pressure_plate": {
+      "isotropic": true
+   },
+   "honey_block": {
+      "isotropic": true
+   },
+   "honeycomb_block": {
+      "isotropic": true
+   },
+   "hopper": {
+      "isotropic": true
+   },
+   "ice": {
+      "isotropic": true
+   },
+   "infested_deepslate": {
+      "isotropic": true
+   },
+   "info_update": {
+      "isotropic": true
+   },
+   "info_update2": {
+      "isotropic": true
+   },
+   "invisibleBedrock": {
+      "isotropic": true
+   },
+   "iron_bars": {
+      "isotropic": true
+   },
+   "iron_block": {
+      "isotropic": true
+   },
+   "iron_door": {
+      "isotropic": true
+   },
+   "iron_ore": {
+      "isotropic": true
+   },
+   "iron_trapdoor": {
+      "isotropic": true
+   },
+   "jigsaw": {
+      "isotropic": true
+   },
+   "jukebox": {
+      "isotropic": true
+   },
+   "jungle_button": {
+      "isotropic": true
+   },
+   "jungle_door": {
+      "isotropic": true
+   },
+   "jungle_fence_gate": {
+      "isotropic": true
+   },
+   "jungle_pressure_plate": {
+      "isotropic": true
+   },
+   "jungle_stairs": {
+      "isotropic": true
+   },
+   "jungle_standing_sign": {
+      "isotropic": true
+   },
+   "jungle_trapdoor": {
+      "isotropic": true
+   },
+   "jungle_wall_sign": {
+      "isotropic": true
+   },
+   "kelp": {
+      "isotropic": true
+   },
+   "ladder": {
+      "isotropic": true
+   },
+   "lantern": {
+      "isotropic": true
+   },
+   "lapis_block": {
+      "isotropic": true
+   },
+   "lapis_ore": {
+      "isotropic": true
+   },
+   "large_amethyst_bud": {
+      "isotropic": true
+   },
+   "lava": {
+      "isotropic": true
+   },
+   "lava_cauldron": {
+      "isotropic": true
+   },
+   "leaves": {
+      "isotropic": true
+   },
+   "leaves2": {
+      "isotropic": true
+   },
+   "lectern": {
+      "isotropic": true
+   },
+   "lever": {
+      "isotropic": true
+   },
+   "light_block": {
+      "isotropic": true
+   },
+   "light_blue_candle": {
+      "isotropic": true
+   },
+   "light_blue_candle_cake": {
+      "isotropic": true
+   },
+   "light_blue_glazed_terracotta": {
+      "isotropic": true
+   },
+   "light_gray_candle": {
+      "isotropic": true
+   },
+   "light_gray_candle_cake": {
+      "isotropic": true
+   },
+   "light_weighted_pressure_plate": {
+      "isotropic": true
+   },
+   "lightning_rod": {
+      "isotropic": true
+   },
+   "lime_candle": {
+      "isotropic": true
+   },
+   "lime_candle_cake": {
+      "isotropic": true
+   },
+   "lime_glazed_terracotta": {
+      "isotropic": true
+   },
+   "lit_blast_furnace": {
+      "isotropic": true
+   },
+   "lit_deepslate_redstone_ore": {
+      "isotropic": true
+   },
+   "lit_furnace": {
+      "isotropic": true
+   },
+   "lit_pumpkin": {
+      "isotropic": true
+   },
+   "lit_redstone_lamp": {
+      "isotropic": true
+   },
+   "lit_redstone_ore": {
+      "isotropic": true
+   },
+   "lit_smoker": {
+      "isotropic": true
+   },
+   "lodestone": {
+      "isotropic": true
+   },
+   "log": {
+      "isotropic": true
+   },
+   "log2": {
+      "isotropic": true
+   },
+   "loom": {
+      "isotropic": true
+   },
+   "magenta_candle": {
+      "isotropic": true
+   },
+   "magenta_candle_cake": {
+      "isotropic": true
+   },
+   "magenta_glazed_terracotta": {
+      "isotropic": true
+   },
+   "magma": {
+      "isotropic": true
+   },
+   "mangrove_button": {
+      "isotropic": true
+   },
+   "mangrove_door": {
+      "isotropic": true
+   },
+   "mangrove_double_slab": {
+      "isotropic": true
+   },
+   "mangrove_fence": {
+      "isotropic": true
+   },
+   "mangrove_fence_gate": {
+      "isotropic": true
+   },
+   "mangrove_leaves": {
+      "isotropic": true
+   },
+   "mangrove_log": {
+      "isotropic": true
+   },
+   "mangrove_planks": {
+      "isotropic": true
+   },
+   "mangrove_pressure_plate": {
+      "isotropic": true
+   },
+   "mangrove_propagule": {
+      "isotropic": true
+   },
+   "mangrove_roots": {
+      "isotropic": true
+   },
+   "mangrove_slab": {
+      "isotropic": true
+   },
+   "mangrove_stairs": {
+      "isotropic": true
+   },
+   "mangrove_standing_sign": {
+      "isotropic": true
+   },
+   "mangrove_trapdoor": {
+      "isotropic": true
+   },
+   "mangrove_wall_sign": {
+      "isotropic": true
+   },
+   "mangrove_wood": {
+      "isotropic": true
+   },
+   "medium_amethyst_bud": {
+      "isotropic": true
+   },
+   "melon_block": {
+      "isotropic": true
+   },
+   "melon_stem": {
+      "isotropic": true
+   },
+   "mob_spawner": {
+      "isotropic": true
+   },
+   "monster_egg": {
+      "isotropic": true
+   },
+   "moss_block": {
+      "isotropic": true
+   },
+   "moss_carpet": {
+      "isotropic": true
+   },
+   "mossy_cobblestone": {
+      "isotropic": true
+   },
+   "mossy_cobblestone_stairs": {
+      "isotropic": true
+   },
+   "mossy_stone_brick_stairs": {
+      "isotropic": true
+   },
+   "movingBlock": {
+      "isotropic": true
+   },
+   "mud": {
+      "isotropic": true
+   },
+   "mud_brick_double_slab": {
+      "isotropic": true
+   },
+   "mud_brick_slab": {
+      "isotropic": true
+   },
+   "mud_brick_stairs": {
+      "isotropic": true
+   },
+   "mud_brick_wall": {
+      "isotropic": true
+   },
+   "mud_bricks": {
+      "isotropic": true
+   },
+   "muddy_mangrove_roots": {
+      "isotropic": true
+   },
+   "mycelium": {
+      "isotropic": true
+   },
+   "nether_brick": {
+      "isotropic": true
+   },
+   "nether_brick_fence": {
+      "isotropic": true
+   },
+   "nether_brick_stairs": {
+      "isotropic": true
+   },
+   "nether_gold_ore": {
+      "isotropic": true
+   },
+   "nether_sprouts": {
+      "isotropic": true
+   },
+   "nether_wart": {
+      "isotropic": true
+   },
+   "nether_wart_block": {
+      "isotropic": true
+   },
+   "netherite_block": {
+      "isotropic": true
+   },
+   "netherrack": {
+      "isotropic": true
+   },
+   "netherreactor": {
+      "isotropic": true
+   },
+   "normal_stone_stairs": {
+      "isotropic": true
+   },
+   "noteblock": {
+      "isotropic": true
+   },
+   "oak_stairs": {
+      "isotropic": true
+   },
+   "observer": {
+      "isotropic": true
+   },
+   "obsidian": {
+      "isotropic": true
+   },
+   "ochre_froglight": {
+      "isotropic": true
+   },
+   "orange_candle": {
+      "isotropic": true
+   },
+   "orange_candle_cake": {
+      "isotropic": true
+   },
+   "orange_glazed_terracotta": {
+      "isotropic": true
+   },
+   "oxidized_copper": {
+      "isotropic": true
+   },
+   "oxidized_cut_copper": {
+      "isotropic": true
+   },
+   "oxidized_cut_copper_slab": {
+      "isotropic": true
+   },
+   "oxidized_cut_copper_stairs": {
+      "isotropic": true
+   },
+   "oxidized_double_cut_copper_slab": {
+      "isotropic": true
+   },
+   "packed_ice": {
+      "isotropic": true
+   },
+   "packed_mud": {
+      "isotropic": true
+   },
+   "pearlescent_froglight": {
+      "isotropic": true
+   },
+   "pink_candle": {
+      "isotropic": true
+   },
+   "pink_candle_cake": {
+      "isotropic": true
+   },
+   "pink_glazed_terracotta": {
+      "isotropic": true
+   },
+   "piston": {
+      "isotropic": true
+   },
+   "pistonArmCollision": {
+      "isotropic": true
+   },
+   "planks": {
+      "isotropic": true
+   },
+   "podzol": {
+      "isotropic": true
+   },
+   "pointed_dripstone": {
+      "isotropic": true
+   },
+   "polished_andesite_stairs": {
+      "isotropic": true
+   },
+   "polished_basalt": {
+      "isotropic": true
+   },
+   "polished_blackstone": {
+      "isotropic": true
+   },
+   "polished_blackstone_brick_double_slab": {
+      "isotropic": true
+   },
+   "polished_blackstone_brick_slab": {
+      "isotropic": true
+   },
+   "polished_blackstone_brick_stairs": {
+      "isotropic": true
+   },
+   "polished_blackstone_brick_wall": {
+      "isotropic": true
+   },
+   "polished_blackstone_bricks": {
+      "isotropic": true
+   },
+   "polished_blackstone_button": {
+      "isotropic": true
+   },
+   "polished_blackstone_double_slab": {
+      "isotropic": true
+   },
+   "polished_blackstone_pressure_plate": {
+      "isotropic": true
+   },
+   "polished_blackstone_slab": {
+      "isotropic": true
+   },
+   "polished_blackstone_stairs": {
+      "isotropic": true
+   },
+   "polished_blackstone_wall": {
+      "isotropic": true
+   },
+   "polished_deepslate": {
+      "isotropic": true
+   },
+   "polished_deepslate_double_slab": {
+      "isotropic": true
+   },
+   "polished_deepslate_slab": {
+      "isotropic": true
+   },
+   "polished_deepslate_stairs": {
+      "isotropic": true
+   },
+   "polished_deepslate_wall": {
+      "isotropic": true
+   },
+   "polished_diorite_stairs": {
+      "isotropic": true
+   },
+   "polished_granite_stairs": {
+      "isotropic": true
+   },
+   "portal": {
+      "isotropic": true
+   },
+   "potatoes": {
+      "isotropic": true
+   },
+   "powder_snow": {
+      "isotropic": true
+   },
+   "powered_comparator": {
+      "isotropic": true
+   },
+   "powered_repeater": {
+      "isotropic": true
+   },
+   "prismarine": {
+      "isotropic": true
+   },
+   "prismarine_bricks_stairs": {
+      "isotropic": true
+   },
+   "prismarine_stairs": {
+      "isotropic": true
+   },
+   "pumpkin": {
+      "isotropic": true
+   },
+   "pumpkin_stem": {
+      "isotropic": true
+   },
+   "purple_candle": {
+      "isotropic": true
+   },
+   "purple_candle_cake": {
+      "isotropic": true
+   },
+   "purple_glazed_terracotta": {
+      "isotropic": true
+   },
+   "purpur_block": {
+      "isotropic": true
+   },
+   "purpur_stairs": {
+      "isotropic": true
+   },
+   "quartz_block": {
+      "isotropic": true
+   },
+   "quartz_bricks": {
+      "isotropic": true
+   },
+   "quartz_ore": {
+      "isotropic": true
+   },
+   "quartz_stairs": {
+      "isotropic": true
+   },
+   "rail": {
+      "isotropic": true
+   },
+   "raw_copper_block": {
+      "isotropic": true
+   },
+   "raw_gold_block": {
+      "isotropic": true
+   },
+   "raw_iron_block": {
+      "isotropic": true
+   },
+   "red_candle": {
+      "isotropic": true
+   },
+   "red_candle_cake": {
+      "isotropic": true
+   },
+   "red_flower": {
+      "isotropic": true
+   },
+   "red_glazed_terracotta": {
+      "isotropic": true
+   },
+   "red_mushroom": {
+      "isotropic": true
+   },
+   "red_mushroom_block": {
+      "isotropic": true
+   },
+   "red_nether_brick": {
+      "isotropic": true
+   },
+   "red_nether_brick_stairs": {
+      "isotropic": true
+   },
+   "red_sandstone": {
+      "isotropic": true
+   },
+   "red_sandstone_stairs": {
+      "isotropic": true
+   },
+   "redstone_block": {
+      "isotropic": true
+   },
+   "redstone_lamp": {
+      "isotropic": true
+   },
+   "redstone_ore": {
+      "isotropic": true
+   },
+   "redstone_torch": {
+      "isotropic": true
+   },
+   "redstone_wire": {
+      "isotropic": true
+   },
+   "reeds": {
+      "isotropic": true
+   },
+   "reinforced_deepslate": {
+      "isotropic": true
+   },
+   "repeating_command_block": {
+      "isotropic": true
+   },
+   "reserved6": {
+      "isotropic": true
+   },
+   "respawn_anchor": {
+      "isotropic": true
+   },
+   "sand": {
+      "isotropic": true
+   },
+   "sandstone": {
+      "isotropic": true
+   },
+   "sandstone_stairs": {
+      "isotropic": true
+   },
+   "sapling": {
+      "isotropic": true
+   },
+   "scaffolding": {
+      "isotropic": true
+   },
+   "sculk": {
+      "isotropic": true
+   },
+   "sculk_catalyst": {
+      "isotropic": true
+   },
+   "sculk_sensor": {
+      "isotropic": true
+   },
+   "sculk_shrieker": {
+      "isotropic": true
+   },
+   "sculk_vein": {
+      "isotropic": true
+   },
+   "seaLantern": {
+      "isotropic": true
+   },
+   "sea_pickle": {
+      "isotropic": true
+   },
+   "seagrass": {
+      "isotropic": true
+   },
+   "shroomlight": {
+      "isotropic": true
+   },
+   "shulker_box": {
+      "isotropic": true
+   },
+   "silver_glazed_terracotta": {
+      "isotropic": true
+   },
+   "skull": {
+      "isotropic": true
+   },
+   "slime": {
+      "isotropic": true
+   },
+   "small_amethyst_bud": {
+      "isotropic": true
+   },
+   "small_dripleaf_block": {
+      "isotropic": true
+   },
+   "smithing_table": {
+      "isotropic": true
+   },
+   "smoker": {
+      "isotropic": true
+   },
+   "smooth_basalt": {
+      "isotropic": true
+   },
+   "smooth_quartz_stairs": {
+      "isotropic": true
+   },
+   "smooth_red_sandstone_stairs": {
+      "isotropic": true
+   },
+   "smooth_sandstone_stairs": {
+      "isotropic": true
+   },
+   "smooth_stone": {
+      "isotropic": true
+   },
+   "snow": {
+      "isotropic": true
+   },
+   "snow_layer": {
+      "isotropic": true
+   },
+   "soul_campfire": {
+      "isotropic": true
+   },
+   "soul_fire": {
+      "isotropic": true
+   },
+   "soul_lantern": {
+      "isotropic": true
+   },
+   "soul_sand": {
+      "isotropic": true
+   },
+   "soul_soil": {
+      "isotropic": true
+   },
+   "soul_torch": {
+      "isotropic": true
+   },
+   "sponge": {
+      "isotropic": true
+   },
+   "spore_blossom": {
+      "isotropic": true
+   },
+   "spruce_button": {
+      "isotropic": true
+   },
+   "spruce_door": {
+      "isotropic": true
+   },
+   "spruce_fence_gate": {
+      "isotropic": true
+   },
+   "spruce_pressure_plate": {
+      "isotropic": true
+   },
+   "spruce_stairs": {
+      "isotropic": true
+   },
+   "spruce_standing_sign": {
+      "isotropic": true
+   },
+   "spruce_trapdoor": {
+      "isotropic": true
+   },
+   "spruce_wall_sign": {
+      "isotropic": true
+   },
+   "stained_glass": {
+      "isotropic": true
+   },
+   "stained_glass_pane": {
+      "isotropic": true
+   },
+   "stained_hardened_clay": {
+      "isotropic": true
+   },
+   "standing_banner": {
+      "isotropic": true
+   },
+   "standing_sign": {
+      "isotropic": true
+   },
+   "stickyPistonArmCollision": {
+      "isotropic": true
+   },
+   "sticky_piston": {
+      "isotropic": true
+   },
+   "stone": {
+      "isotropic": true
+   },
+   "stone_brick_stairs": {
+      "isotropic": true
+   },
+   "stone_button": {
+      "isotropic": true
+   },
+   "stone_pressure_plate": {
+      "isotropic": true
+   },
+   "stone_slab": {
+      "isotropic": true
+   },
+   "stone_slab2": {
+      "isotropic": true
+   },
+   "stone_slab3": {
+      "isotropic": true
+   },
+   "stone_slab4": {
+      "isotropic": true
+   },
+   "stone_stairs": {
+      "isotropic": true
+   },
+   "stonebrick": {
+      "isotropic": true
+   },
+   "stonecutter": {
+      "isotropic": true
+   },
+   "stonecutter_block": {
+      "isotropic": true
+   },
+   "stripped_acacia_log": {
+      "isotropic": true
+   },
+   "stripped_birch_log": {
+      "isotropic": true
+   },
+   "stripped_crimson_hyphae": {
+      "isotropic": true
+   },
+   "stripped_crimson_stem": {
+      "isotropic": true
+   },
+   "stripped_dark_oak_log": {
+      "isotropic": true
+   },
+   "stripped_jungle_log": {
+      "isotropic": true
+   },
+   "stripped_mangrove_log": {
+      "isotropic": true
+   },
+   "stripped_mangrove_wood": {
+      "isotropic": true
+   },
+   "stripped_oak_log": {
+      "isotropic": true
+   },
+   "stripped_spruce_log": {
+      "isotropic": true
+   },
+   "stripped_warped_hyphae": {
+      "isotropic": true
+   },
+   "stripped_warped_stem": {
+      "isotropic": true
+   },
+   "structure_block": {
+      "isotropic": true
+   },
+   "structure_void": {
+      "isotropic": true
+   },
+   "sweet_berry_bush": {
+      "isotropic": true
+   },
+   "tallgrass": {
+      "isotropic": true
+   },
+   "target": {
+      "isotropic": true
+   },
+   "tinted_glass": {
+      "isotropic": true
+   },
+   "tnt": {
+      "isotropic": true
+   },
+   "torch": {
+      "isotropic": true
+   },
+   "trapdoor": {
+      "isotropic": true
+   },
+   "trapped_chest": {
+      "isotropic": true
+   },
+   "tripWire": {
+      "isotropic": true
+   },
+   "tripwire_hook": {
+      "isotropic": true
+   },
+   "tuff": {
+      "isotropic": true
+   },
+   "turtle_egg": {
+      "isotropic": true
+   },
+   "twisting_vines": {
+      "isotropic": true
+   },
+   "undyed_shulker_box": {
+      "isotropic": true
+   },
+   "unlit_redstone_torch": {
+      "isotropic": true
+   },
+   "unpowered_comparator": {
+      "isotropic": true
+   },
+   "unpowered_repeater": {
+      "isotropic": true
+   },
+   "verdant_froglight": {
+      "isotropic": true
+   },
+   "vine": {
+      "isotropic": true
+   },
+   "wall_banner": {
+      "isotropic": true
+   },
+   "wall_sign": {
+      "isotropic": true
+   },
+   "warped_button": {
+      "isotropic": true
+   },
+   "warped_door": {
+      "isotropic": true
+   },
+   "warped_double_slab": {
+      "isotropic": true
+   },
+   "warped_fence": {
+      "isotropic": true
+   },
+   "warped_fence_gate": {
+      "isotropic": true
+   },
+   "warped_fungus": {
+      "isotropic": true
+   },
+   "warped_hyphae": {
+      "isotropic": true
+   },
+   "warped_nylium": {
+      "isotropic": true
+   },
+   "warped_planks": {
+      "isotropic": true
+   },
+   "warped_pressure_plate": {
+      "isotropic": true
+   },
+   "warped_roots": {
+      "isotropic": true
+   },
+   "warped_slab": {
+      "isotropic": true
+   },
+   "warped_stairs": {
+      "isotropic": true
+   },
+   "warped_standing_sign": {
+      "isotropic": true
+   },
+   "warped_stem": {
+      "isotropic": true
+   },
+   "warped_trapdoor": {
+      "isotropic": true
+   },
+   "warped_wall_sign": {
+      "isotropic": true
+   },
+   "warped_wart_block": {
+      "isotropic": true
+   },
+   "water": {
+      "isotropic": true
+   },
+   "waterlily": {
+      "isotropic": true
+   },
+   "waxed_copper": {
+      "isotropic": true
+   },
+   "waxed_cut_copper": {
+      "isotropic": true
+   },
+   "waxed_cut_copper_slab": {
+      "isotropic": true
+   },
+   "waxed_cut_copper_stairs": {
+      "isotropic": true
+   },
+   "waxed_double_cut_copper_slab": {
+      "isotropic": true
+   },
+   "waxed_exposed_copper": {
+      "isotropic": true
+   },
+   "waxed_exposed_cut_copper": {
+      "isotropic": true
+   },
+   "waxed_exposed_cut_copper_slab": {
+      "isotropic": true
+   },
+   "waxed_exposed_cut_copper_stairs": {
+      "isotropic": true
+   },
+   "waxed_exposed_double_cut_copper_slab": {
+      "isotropic": true
+   },
+   "waxed_oxidized_copper": {
+      "isotropic": true
+   },
+   "waxed_oxidized_cut_copper": {
+      "isotropic": true
+   },
+   "waxed_oxidized_cut_copper_slab": {
+      "isotropic": true
+   },
+   "waxed_oxidized_cut_copper_stairs": {
+      "isotropic": true
+   },
+   "waxed_oxidized_double_cut_copper_slab": {
+      "isotropic": true
+   },
+   "waxed_weathered_copper": {
+      "isotropic": true
+   },
+   "waxed_weathered_cut_copper": {
+      "isotropic": true
+   },
+   "waxed_weathered_cut_copper_slab": {
+      "isotropic": true
+   },
+   "waxed_weathered_cut_copper_stairs": {
+      "isotropic": true
+   },
+   "waxed_weathered_double_cut_copper_slab": {
+      "isotropic": true
+   },
+   "weathered_copper": {
+      "isotropic": true
+   },
+   "weathered_cut_copper": {
+      "isotropic": true
+   },
+   "weathered_cut_copper_slab": {
+      "isotropic": true
+   },
+   "weathered_cut_copper_stairs": {
+      "isotropic": true
+   },
+   "weathered_double_cut_copper_slab": {
+      "isotropic": true
+   },
+   "web": {
+      "isotropic": true
+   },
+   "weeping_vines": {
+      "isotropic": true
+   },
+   "wheat": {
+      "isotropic": true
+   },
+   "white_candle": {
+      "isotropic": true
+   },
+   "white_candle_cake": {
+      "isotropic": true
+   },
+   "white_glazed_terracotta": {
+      "isotropic": true
+   },
+   "wither_rose": {
+      "isotropic": true
+   },
+   "wood": {
+      "isotropic": true
+   },
+   "wooden_button": {
+      "isotropic": true
+   },
+   "wooden_door": {
+      "isotropic": true
+   },
+   "wooden_pressure_plate": {
+      "isotropic": true
+   },
+   "wooden_slab": {
+      "isotropic": true
+   },
+   "wool": {
+      "isotropic": true
+   },
+   "yellow_candle": {
+      "isotropic": true
+   },
+   "yellow_candle_cake": {
+      "isotropic": true
+   },
+   "yellow_flower": {
+      "isotropic": true
+   },
+   "yellow_glazed_terracotta": {
+      "isotropic": true
+   }
 }
